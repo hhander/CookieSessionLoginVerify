@@ -1,0 +1,12 @@
+com\xxx\web\loginServlet.class
+com\xxx\web\selectAllServlet.class
+com\xxx\mapper\userMapper.class
+com\xxx\web\cookieDemoServlet.class
+com\xxx\web\registerServlet.class
+com\xxx\service\DataTransfer.class
+com\xxx\util\VeryfiedImageGetterUtils.class
+com\xxx\util\SqlSessionFactoryUtils.class
+com\xxx\pojo\brand.class
+com\xxx\util\VeryfiedImageGetterUtils$VerifyCodeUtils.class
+com\xxx\pojo\user.class
+com\xxx\web\verifiedImageServlet.class
